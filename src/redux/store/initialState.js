@@ -1,6 +1,6 @@
 const initialState = {
-    counter:{
-        count:0
+    counter: {
+        count: 0
     }
 }
 
